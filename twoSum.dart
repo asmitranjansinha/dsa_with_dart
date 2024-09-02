@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 class Solution {
   List<int> twoSum(List<int> nums, int target) {
     List<int> outputArr = [];
